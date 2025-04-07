@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "FinTrack"
 include(":app")
+include(":fintrack_base")
